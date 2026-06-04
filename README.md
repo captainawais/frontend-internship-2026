@@ -295,11 +295,13 @@ My next learning targets include:
 
 # 🔗 Internship Announcement
 
-I am proud to share my Frontend Developer Internship announcement post:
+I am proud to share my Frontend Developer Internship announcement.
 
-### LinkedIn Post
+<a href="https://www.linkedin.com/posts/awais-farooq-388346405_internship-frontenddeveloper-webdevelopment-activity-7454893532752031744-tswH">
+  <img src="./internship-announcement.jpg" width="700">
+</a>
 
-👉 https://www.linkedin.com/posts/awais-farooq-388346405_internship-frontenddeveloper-webdevelopment-activity-7454893532752031744-tswH
+### Click the image above to view the LinkedIn post.
 
 ---
 
