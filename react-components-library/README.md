@@ -201,6 +201,24 @@ During this internship, I learned:
 
 ---
 
+# 🌐 Live Demo
+
+Project is deployed on Vercel.
+
+🔗 Live Preview:
+https://captainawais-frontend-internship-20.vercel.app/
+
+---
+
+## 🚀 React Components Library
+
+A reusable React Components Library developed using React and Vite.
+
+### Live Project
+
+👉 https://captainawais-frontend-internship-20.vercel.app/
+
+
 # Author
 
 Awais Farooq
