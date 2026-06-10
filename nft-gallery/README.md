@@ -1,3 +1,43 @@
+<<<<<<< HEAD
+# NFT Digital Gallery
+
+A modern NFT marketplace UI built with React and Vite.
+
+## Features
+
+- Modern NFT Landing Page
+- Responsive Design
+- Animated Background
+- Featured NFT Collection
+- Top Artists Section
+- Statistics Dashboard
+- Premium Footer
+- Glassmorphism Cards
+- React Components Architecture
+
+## Technologies
+
+- React JS
+- Vite
+- JavaScript
+- CSS3
+- Responsive Design
+
+## Learning Outcomes
+
+- Component Based Architecture
+- Props Handling
+- State Management
+- UI Design Principles
+- Responsive Layouts
+- React Development Workflow
+
+## Author
+
+Awais Farooq
+
+Frontend Developer Intern
+=======
 # 🚀 Frontend Developer Internship 2026
 
 ![React](https://img.shields.io/badge/React-JS-blue?style=for-the-badge&logo=react)
@@ -5,7 +45,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-Markup-orange?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-Styling-blue?style=for-the-badge&logo=css3)
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)
-![Visitors](https://komarev.com/ghpvc/?username=captainawais&repo=Hunarmand-Punjab-Python-Mastery-Portfolio&label=Portfolio+Views&color=0e75b6&style=for-the-badge)
+
 ---
 
 ## 📖 Overview
@@ -352,3 +392,4 @@ https://www.linkedin.com/in/awais-farooq-388346405
 ---
 
 ### ⭐ If you like this repository, don't forget to star it.
+>>>>>>> 4d1ac102f24b34ec664e9414b6247d0f315e3dc4

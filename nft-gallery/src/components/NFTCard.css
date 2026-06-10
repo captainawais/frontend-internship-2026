@@ -1,0 +1,60 @@
+.nft-card{
+    background:#111827;
+    border-radius:20px;
+    overflow:hidden;
+    transition:.4s;
+}
+
+.nft-card:hover{
+    transform:translateY(-10px);
+    box-shadow:0 15px 35px rgba(0,229,255,.25);
+}
+
+.nft-card img{
+    width:100%;
+    height:280px;
+    object-fit:cover;
+}
+
+.card-content{
+    padding:20px;
+}
+
+.artist{
+    color:#aaa;
+    margin-top:10px;
+}
+
+.card-bottom{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    margin-top:20px;
+}
+
+.price{
+    color:#00e5ff;
+    font-weight:bold;
+}
+
+.card-bottom button{
+    background:#00e5ff;
+    border:none;
+    padding:10px 16px;
+    border-radius:10px;
+    cursor:pointer;
+}
+
+/* mobile responsive */
+.nft-card img{
+  width:100%;
+  height:250px;
+  object-fit:cover;
+}
+
+@media(max-width:768px){
+
+  .nft-card img{
+    height:220px;
+  }
+}
