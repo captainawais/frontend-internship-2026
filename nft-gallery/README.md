@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # NFT Digital Gallery
 
 A modern NFT marketplace UI built with React and Vite.
@@ -392,4 +392,4 @@ https://www.linkedin.com/in/awais-farooq-388346405
 ---
 
 ### ⭐ If you like this repository, don't forget to star it.
->>>>>>> 4d1ac102f24b34ec664e9414b6247d0f315e3dc4
+
