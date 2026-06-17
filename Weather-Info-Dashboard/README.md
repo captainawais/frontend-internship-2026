@@ -1,16 +1,85 @@
-# React + Vite
+# 🌦 Weather Info Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern Weather Dashboard built with React and OpenWeather API.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* Search weather by city name
+* Auto detect current location weather
+* Real-time weather updates
+* Loading state handling
+* Error handling
+* Weather icons
+* Temperature display
+* Humidity information
+* Wind speed details
+* Feels like temperature
+* Search history (Last 5 cities)
+* Local Storage support
+* Responsive Design
+* Modern Glassmorphism UI
 
-## React Compiler
+## Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* React JS
+* Vite
+* JavaScript
+* CSS3
+* OpenWeather API
 
-## Expanding the ESLint configuration
+## API Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* Current Weather Data
+* City Search
+* Geolocation Weather
+* Dynamic Weather Icons
+
+## Learning Outcomes
+
+* API Integration
+* Async/Await
+* Fetch API
+* React Hooks
+* State Management
+* Error Handling
+* Loading States
+* Local Storage
+* Responsive Design
+
+## Installation
+
+```bash
+npm install
+npm run dev
+```
+
+## Project Structure
+
+```text
+src/
+│
+├── components/
+│   ├── WeatherForm.jsx
+│   ├── WeatherCard.jsx
+│   ├── Loading.jsx
+│   └── ErrorMessage.jsx
+│
+├── App.jsx
+├── App.css
+├── index.css
+└── main.jsx
+```
+
+## Author
+
+### Awais Farooq
+
+GitHub:
+https://github.com/captainawais
+
+LinkedIn:
+https://www.linkedin.com/in/awais-farooq-388346405
+
+---
+
+⭐ If you like this project, don't forget to star the repository.
