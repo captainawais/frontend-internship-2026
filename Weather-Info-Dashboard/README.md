@@ -80,6 +80,9 @@ https://github.com/captainawais
 LinkedIn:
 https://www.linkedin.com/in/awais-farooq-388346405
 
+Live View:
+https://frontend-internship-2026-d66y.vercel.app/
+
 ---
 
 ⭐ If you like this project, don't forget to star the repository.
